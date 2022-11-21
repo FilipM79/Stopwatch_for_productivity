@@ -460,9 +460,9 @@ files:
         implementation "com.google.android.material:material:$material"
     }
   learner_created: false
-feedback_link: https://hyperskill.org/projects/72/stages/394/implement#comment
+feedback_link: https://hyperskill.org/learn/step/9286#comment
 status: Solved
 feedback:
   message: Congratulations!
   time: Sat, 19 Nov 2022 09:43:27 UTC
-record: -1
+record: 1

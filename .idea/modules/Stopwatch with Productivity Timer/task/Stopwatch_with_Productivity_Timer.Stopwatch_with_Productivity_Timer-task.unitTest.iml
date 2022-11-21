@@ -29,6 +29,8 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../../Stopwatch with Productivity Timer/task/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar</arg>
+                <arg>$MODULE_DIR$/../../../../Stopwatch with Productivity Timer/task/build/intermediates/app_classes/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f0ff9f626ca8af740dd1600242737494/transformed/jetified-viewbinding-7.0.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/732f1bb219efccf99806e01c296adf56/transformed/jetified-robolectric-4.7.3.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/31601e1f002ca7a7a38e14d846b064f7/transformed/jetified-shadows-framework-4.7.3.jar</arg>

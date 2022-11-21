@@ -29,6 +29,7 @@
           <stringArguments>
             <stringArg name="classpath">
               <args>
+                <arg>$MODULE_DIR$/../../../../Stopwatch with Productivity Timer/task/build/intermediates/app_classes/debug/classes.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/f0ff9f626ca8af740dd1600242737494/transformed/jetified-viewbinding-7.0.2-api.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/5e2276fa806a64b50613ca45bbd8a995/transformed/jetified-kotlin-stdlib-jdk8-1.6.10.jar</arg>
                 <arg>$USER_HOME$/.gradle/caches/transforms-3/251b09d935e8af871a73a9564fb81ee9/transformed/jetified-core-ktx-1.6.0-api.jar</arg>
