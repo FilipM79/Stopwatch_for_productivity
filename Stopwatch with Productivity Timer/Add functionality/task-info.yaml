@@ -560,9 +560,6 @@ files:
         }
     }
   learner_created: false
-- name: src/main/java/org/hyperskill/stopwatch/DataHelper.kt
-  visible: true
-  learner_created: true
 - name: src/main/res/drawable/ic_baseline_play_arrow_24.xml
   visible: true
   learner_created: true
@@ -576,11 +573,8 @@ files:
   visible: true
   learner_created: true
 feedback_link: https://hyperskill.org/learn/step/9287#comment
-status: Failed
+status: Solved
 feedback:
-  message: Don&#39;t rush on counting. For view with id &quot;textView&quot;, in property
-    &quot;text&quot;
-  time: Mon, 21 Nov 2022 18:30:34 UTC
-  expected: <01:[5]9>
-  actual: <01:[1]9>
+  message: Congratulations!
+  time: Tue, 22 Nov 2022 08:16:27 UTC
 record: -1

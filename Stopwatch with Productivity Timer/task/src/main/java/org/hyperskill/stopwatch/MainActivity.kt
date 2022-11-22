@@ -31,7 +31,6 @@ class MainActivity : AppCompatActivity(), Runnable {
                 isCounting = true
                 handler.postDelayed(this, 1000)
             } else {
-//                count = 1
                 formatTimer(count)
             }
         }
@@ -48,18 +47,14 @@ class MainActivity : AppCompatActivity(), Runnable {
             count++
             formatTimer(count)
 
-//            if (count == 0) {
-//                isCounting = false
-//                count = 1
-//                return
-//            }
-
             handler.postDelayed(this, 1000)
         }
     }
 
-    fun formatTimer(count: Int) {
-        val remaining = count.toString().padStart(4, '0')
+    private fun formatTimer(count: Int) {
+        val timeCount = if (count > 59 ) (count / 60) * 100 + count % 60 else count
+
+        val remaining = timeCount.toString().padStart(4, '0')
         val formatted = "${remaining.substring(0, 2)}:${remaining.substring(2)}"
         timerView.text = formatted
     }
