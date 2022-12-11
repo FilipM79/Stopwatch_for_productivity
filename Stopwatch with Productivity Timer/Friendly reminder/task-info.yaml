@@ -15,12 +15,6 @@ files:
         }
     }
   learner_created: false
-- name: src/main/res/drawable/ic_launcher_background.xml
-  visible: true
-  learner_created: false
-- name: src/main/res/drawable-v24/ic_launcher_foreground.xml
-  visible: true
-  learner_created: false
 - name: src/main/res/layout/activity_main.xml
   visible: true
   learner_created: false
@@ -912,6 +906,21 @@ files:
         }
     }
   learner_created: false
+- name: src/main/res/drawable/ic_baseline_stop_24.xml
+  visible: true
+  learner_created: true
+- name: src/main/res/drawable/ic_baseline_play_arrow_24.xml
+  visible: true
+  learner_created: true
+- name: src/main/res/drawable/ic_baseline_replay_24.xml
+  visible: true
+  learner_created: true
+- name: src/main/res/layout/settings_dialog.xml
+  visible: true
+  learner_created: true
+- name: src/main/res/drawable/ic_baseline_pause_24.xml
+  visible: true
+  learner_created: true
 - name: src/test/java/org/hyperskill/tests/stopwatch/Stage5UnitTest.kt
   visible: false
   text: |+
@@ -1155,6 +1164,70 @@ files:
     }
 
   learner_created: false
+- name: src/debug/ic_notification-playstore.png
+  visible: true
+  learner_created: true
+- name: src/main/res/drawable/ic_launcher_background.xml
+  visible: true
+  learner_created: true
+- name: src/main/res/drawable-v24/ic_launcher_foreground.xml
+  visible: true
+  learner_created: true
+- name: src/debug/res/drawable/ic_notification_foreground.xml
+  visible: true
+  learner_created: true
+- name: src/debug/res/drawable/ic_notification_background.xml
+  visible: true
+  learner_created: true
+- name: src/debug/ic_star-playstore.png
+  visible: true
+  learner_created: true
+- name: src/debug/res/mipmap-mdpi/ic_star_round.png
+  visible: true
+  learner_created: true
+- name: src/debug/res/drawable/ic_star_background.xml
+  visible: true
+  learner_created: true
+- name: src/debug/res/mipmap-xxhdpi/ic_star_round.png
+  visible: true
+  learner_created: true
+- name: src/debug/res/mipmap-xxxhdpi/ic_star.png
+  visible: true
+  learner_created: true
+- name: src/debug/res/mipmap-xhdpi/ic_star.png
+  visible: true
+  learner_created: true
+- name: src/debug/res/mipmap-anydpi-v26/ic_star_round.xml
+  visible: true
+  learner_created: true
+- name: src/debug/res/mipmap-xhdpi/ic_star_round.png
+  visible: true
+  learner_created: true
+- name: src/debug/res/drawable/ic_star_foreground.xml
+  visible: true
+  learner_created: true
+- name: src/debug/res/mipmap-hdpi/ic_star.png
+  visible: true
+  learner_created: true
+- name: src/debug/res/mipmap-anydpi-v26/ic_star.xml
+  visible: true
+  learner_created: true
+- name: src/debug/res/mipmap-xxxhdpi/ic_star_round.png
+  visible: true
+  learner_created: true
+- name: src/debug/res/mipmap-xxhdpi/ic_star.png
+  visible: true
+  learner_created: true
+- name: src/debug/res/mipmap-mdpi/ic_star.png
+  visible: true
+  learner_created: true
+- name: src/debug/res/mipmap-hdpi/ic_star_round.png
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/9290#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: Sun, 11 Dec 2022 15:58:02 UTC
 record: -1

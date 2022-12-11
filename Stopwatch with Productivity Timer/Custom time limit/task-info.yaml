@@ -716,6 +716,18 @@ files:
         }
     }
   learner_created: false
+- name: src/main/res/drawable/ic_baseline_stop_24.xml
+  visible: true
+  learner_created: true
+- name: src/main/res/drawable/ic_baseline_play_arrow_24.xml
+  visible: true
+  learner_created: true
+- name: src/main/res/drawable/ic_baseline_replay_24.xml
+  visible: true
+  learner_created: true
+- name: src/main/res/drawable/ic_baseline_pause_24.xml
+  visible: true
+  learner_created: true
 - name: src/test/java/org/hyperskill/tests/stopwatch/Stage4UnitTest.kt
   visible: false
   text: |-
@@ -912,6 +924,12 @@ files:
         }
     }
   learner_created: false
+- name: src/main/res/layout/settings_dialog.xml
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/learn/step/9289#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Tue, 06 Dec 2022 11:27:48 UTC
+record: 4

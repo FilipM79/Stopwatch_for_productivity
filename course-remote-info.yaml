@@ -4,7 +4,7 @@ hyperskill_project:
   is_template_based: false
   use_ide: true
   environment: android
-update_date: Tue, 22 Nov 2022 07:29:42 UTC
+update_date: Mon, 05 Dec 2022 22:28:04 UTC
 stages:
 - id: 394
   step: 9286
@@ -14,13 +14,13 @@ stages:
   is_completed: true
 - id: 396
   step: 9288
-  is_completed: false
+  is_completed: true
 - id: 397
   step: 9289
-  is_completed: false
+  is_completed: true
 - id: 398
   step: 9290
-  is_completed: false
+  is_completed: true
 topics:
   0:
   - title: Binary numbers
@@ -33,10 +33,10 @@ topics:
     theory_id: 3499
   - title: Interface elements
     theory_id: 15253
-  - title: Fonts
-    theory_id: 15045
   - title: Input fields and field labels
     theory_id: 15447
+  - title: Fonts
+    theory_id: 15045
   - title: Feedback
     theory_id: 15308
   - title: Units of information
